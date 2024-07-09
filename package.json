@@ -1,8 +1,7 @@
 {
-  "name": "xtransit-manager",
+  "name": "xtransit-manager-support-low-node",
   "version": "1.0.0",
   "description": "manager for xtransit",
-  "private": true,
   "egg": {
     "declarations": true
   },
@@ -49,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/GZWZC/xtransit-manager-support-low-node.git"
   },
   "author": "yeekwanvong@gmail.com",
   "license": "BSD-2-Clause"
